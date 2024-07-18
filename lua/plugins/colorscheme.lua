@@ -10,7 +10,6 @@ return {
     -- load colorscheme here
     local catppuccin = require("catppuccin")
     catppuccin.setup({
-	--flavour = "frappe"
     flavour = "macchiato"
     --flavour = "mocha",
     --show_end_of_buffer = true -- Показывает значком ~ что строка пустая
